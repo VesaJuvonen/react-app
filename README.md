@@ -26,7 +26,7 @@ Add following to script editor web part in SharePoint 2016 or 2013.
 <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/fabric-core/4.0.0/fabric.min.css">
  
 <!-- Client Side Web Part -->
-<div class="webpart-script-example" data-description="Configuration entry for instance"></div>
+<div id="example"></div>
  
 <!-- Dependencies -->
 <script src="http://localhost:4321/node_modules/react/dist/react.js"></script>
